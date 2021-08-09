@@ -1,0 +1,63 @@
+/* font-family: 'Rajdhani', sans-serif; */
+
+.carrusel {
+    margin-top: 150px;
+}
+
+.carousel-control-next, .carousel-control-prev {
+    content: \f177;
+}
+
+/*#papel {
+    margin-top: -150px;
+    margin-left: 250px;
+    font-family: 'Rajdhani', sans-serif;
+    color: beige;
+}
+
+#realidad {
+    margin-left: 800px;
+    font-family: 'Rajdhani', sans-serif;
+    color: beige;
+    margin-top: -150px;
+} */
+
+.card {
+    margin-top: 150px;
+}
+
+h5 {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+#contacto {
+    padding-top: 150px;
+    }
+
+.btn-primary:not(:disabled):not(.disabled).active, .btn-primary, .btn-primary.focus, .btn-primary:focus {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bolder;
+    color: black;
+    background-color: gainsboro;
+}
+
+label {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bolder;
+}
+.hero {
+background: url(../images/foto6.jpg) no-repeat;
+background-size: cover;
+    height: 0.5;
+    min-height: 400px;
+    margin-top: 150px;
+}
+
+footer {
+    font-family: 'Rajdhani', sans-serif;
+    background-color: lightgrey;
+    font-size: large;
+    text-decoration: underline;
+    color: black;
+    margin-top:  150px;
+}
